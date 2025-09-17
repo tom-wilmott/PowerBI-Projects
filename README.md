@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This dashboard was created for **players of career mode on the game FC 25** to solve a common problem: selecting the right team and signing the correct players can make or break the enjoyment of a career mode. This project provides a single, easy-to-use interface to explore how different teams and league compare with stats and insights that aren't easily avaliable in game.
+This dashboard was created for **players of career mode on the game FC 25** to solve a common problem: selecting the right team and signing the correct players can make or break the enjoyment of a career mode. This project provides a single, easy-to-use interface to explore how different teams and leagues compare with stats and insights that aren't easily available in game.
 
 ### Dashboard File
 You can find the file for the dashboard here: [`FC 25 League Dashboard.pbix`](https://github.com/tom-wilmott/PowerBI-Projects/blob/main/FC%2025%20League%20Dashboard.pbix).  
@@ -29,13 +29,13 @@ This project utilised key Power BI features. Here's a look at what I mastered:
 
 *This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
 
-### Page 1: High-Level Market View
+### Page 1: High-Level View
 
 ![FC 25 League Dashboard Page 1](https://github.com/user-attachments/assets/ac2b7064-e615-42a6-acc1-229283a0d221)
 
 This is your mission control for exploring how the top 10 leagues compare. It showcases key KPIs like average overall, average value, and top leagues for growth potential to give you a quick understanding of what's happening in each league at a glance.
 
-### Page 2: Job Title Drill Through
+### Page 2: League Drill Through
 
  ![FC 25 League Dashboard Page 2](https://github.com/user-attachments/assets/ca5915ae-097d-47b8-837d-9f312655ca87)
 
