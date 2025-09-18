@@ -16,7 +16,7 @@ This project utilised key Power BI features. Here's a look at what I mastered:
 -   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 -   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Average Overall` and `Average Value`.
 -   **📊 Core Charts:** Utilised **Column, Bar, Line,** and **Area Charts** to compare league current overall against their potential.
--   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualise the global distribution of players.
+-   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualise the global distribution of players by nationality.
 -   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
 -   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
 -   **🖱️ Interactive Reporting:**
@@ -33,13 +33,13 @@ This project utilised key Power BI features. Here's a look at what I mastered:
 
 ![FC 25 League Dashboard Page 1](https://github.com/user-attachments/assets/ac2b7064-e615-42a6-acc1-229283a0d221)
 
-This is your mission control for exploring how the top 10 leagues compare. It showcases key KPIs like average overall, average value, and top leagues for growth potential to give you a quick understanding of what's happening in each league at a glance.
+This is your mission control for exploring how the top 10 leagues compare. It showcases key KPIs like Average Overall, Average Player Value, and top leagues for Growth Potential to give you a quick understanding of what's happening in each league at a glance.
 
 ### Page 2: League Drill Through
 
  ![FC 25 League Dashboard Page 2](https://github.com/user-attachments/assets/ca5915ae-097d-47b8-837d-9f312655ca87)
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single league, including club stats, salary range, overall by position, and a global map of player nationalities.
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single league, including club stats, salary ranges, overall by position, and a global map of player nationalities.
 
 ---
 
