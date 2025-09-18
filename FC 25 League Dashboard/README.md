@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This dashboard was created for **players of career mode on the game FC 25** to solve a common problem: selecting the right team and signing the correct players can make or break the enjoyment of a career mode. This project provides a single, easy-to-use interface to explore how different teams and leagues compare with stats and insights that aren't easily available in game.
+This dashboard was built for **FC 25 Career Mode managers** to solve a familiar challenge: choosing the right team and making smart signings can make or break the experience. The report offers a streamlined, easy-to-use interface to compare teams and leagues using stats and insights that aren’t readily available in-game.
 
 ### Dashboard File
 You can find the file for the dashboard here: [`FC 25 League Dashboard.pbix`](https://github.com/tom-wilmott/PowerBI-Projects/blob/main/FC%2025%20League%20Dashboard.pbix).  
