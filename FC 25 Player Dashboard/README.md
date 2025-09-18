@@ -1,6 +1,6 @@
 # FC 25 Player Dashboard 2.0 w/ Power BI
 
-![FC 25 Player Dashboard Overview](https://github.com/tom-wilmott/PowerBI-Projects/blob/main/FC%2025%20Player%20Dashboard/Images/Dashboard%20Overview.gif))
+![FC 25 Player Dashboard Overview](https://github.com/tom-wilmott/PowerBI-Projects/blob/main/FC%2025%20Player%20Dashboard/Images/Dashboard%20Overview.gif)
 
 ## Introduction
 
@@ -38,6 +38,7 @@ This project put key Power BI features into practice. Here's what I mastered:
 
 ![FC 25 Player Dashboard Page 1](https://github.com/tom-wilmott/PowerBI-Projects/blob/main/FC%2025%20Player%20Dashboard/Images/Page%201.gif)
 
+#### 🖼️ Image With All Slicers
   ![FC 25 Player Dashboard Page 1 Image](https://github.com/tom-wilmott/PowerBI-Projects/blob/main/FC%2025%20Player%20Dashboard/Images/Page%201%20Image.png)
   
 This is your scouting hub for discovering players for your exact needs. The detail of slicers and parameters makes it extremely easy to filter players to your criteria so you can really focus on what's important to you. Additionally, the conditional formatting makes comparing players a breeze. 
