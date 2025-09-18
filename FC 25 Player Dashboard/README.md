@@ -7,7 +7,7 @@
 Navigating the transfer market in FC 25 Career Mode can feel overwhelming, information is scattered and time-consuming to gather. This dashboard is ideal for **FC 25 Career Mode managers** and is built to cut through the noise. Powered by a real-world dataset of over 18,500 players, it offers a sleek, single-page interface that helps you scout wonderkids, filter by budget, and make smarter signings faster. Whether you're building a squad from scratch or hunting for hidden gems, this tool puts the data at your fingertips.
 
 ### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix).  
+You can find the file for the dashboard here: ([FC 25 Player Dashboard.pbix](https://github.com/tom-wilmott/PowerBI-Projects/blob/main/FC%2025%20Player%20Dashboard/FC%2025%20Player%20Dashboard.pbix)).  
 
 ## Skills Showcased
 
